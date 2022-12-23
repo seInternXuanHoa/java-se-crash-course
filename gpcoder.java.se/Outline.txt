@@ -1,0 +1,18 @@
+- Default Method, Static Method
+- Functional Interface
+- Method References
+- Lambda
+- ForEach
+- Stream API
+- Optional
+- Predicate
+- Consumer 
+- Supplier
+- Function
+- Collectors
+- Sort
+- DateTime
+- Annotation
+- String Joiner
+- Base64
+- Lazy Evaluation
